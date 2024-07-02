@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-#define max 4
+#define max 100
 
 int arr[max];
 int top =-1;
