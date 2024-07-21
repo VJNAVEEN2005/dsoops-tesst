@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<conio.h>
-#include<stdbool.h>
+//#include<stdbool.h>
 
 int main(){
     int a[] = {1,2,3,4,5,6,7,8,9,10};
     int i,n,target,mid,low,high;
-    bool flag = 0;
+    int flag = 0;
 
     printf("Enter the target element : ");
     scanf("%d",&target);
