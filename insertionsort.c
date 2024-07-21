@@ -15,7 +15,7 @@ int main(){
         j=i-1;
         int key = a[i];
         while(j>=0  && key<a[j]){
-            a[i+1] = a[i];
+            a[j+1] = a[j];
             j--;
         }
         a[j+1] = key;
