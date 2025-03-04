@@ -28,7 +28,22 @@ The WWW is a system of interlinked web pages and resources accessible through th
 - **Web Servers:** Computers that store websites and handle client requests to serve web pages.
 
 ## 7. Web Browser  
-A web browser (e.g., Chrome, Firefox, Edge) is software that allows users to access and view websites. It processes HTML, CSS, and JavaScript to display content.
+A web browser (e.g., Chrome, Firefox, Edge) is software that allows users to access and view websites.  
+It processes **HTML, CSS, and JavaScript** to display web content.  
+
+### **Functions of a Web Browser:**  
+- **Rendering Web Pages:** Converts HTML and CSS into a visually displayed page.  
+- **Executing JavaScript:** Runs scripts to add interactivity and dynamic content.  
+- **Handling HTTP Requests/Responses:** Sends requests to web servers and displays the received data.  
+- **Managing Cookies & Cache:** Stores temporary data to improve browsing speed.  
+- **Supporting Multiple Protocols:** Works with HTTP, HTTPS, FTP, and more.  
+
+### **Popular Web Browsers:**  
+- **Google Chrome** – Fast and widely used.  
+- **Mozilla Firefox** – Open-source and privacy-focused.  
+- **Microsoft Edge** – Integrated with Windows, based on Chromium.  
+- **Apple Safari** – Optimized for macOS and iOS.  
+- **Opera** – Has built-in VPN and ad blocker.  
 
 ## 8. HTML 5.0 (Hypertext Markup Language 5.0)  
 HTML 5 is the latest version of HTML, used to structure web pages. Some key features include:  
